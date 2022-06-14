@@ -37,7 +37,7 @@ function Navbar() {
             <CssBaseline />
             <Toolbar>
                 <Typography variant="h4" className={classes.logo}>
-                    Navbar
+                    Electromecanica Dil-Gar
                 </Typography>
                 <div className={classes.navlinks}>
                     <Link to="/" className={classes.link}>
